@@ -7,6 +7,6 @@ void main()
   scanf("%f",&l);
   printf("\n Enter a width of rectangle ");
   scanf("%f",&w);
-  a = l * w ; // Formula to calculate area of rectangle
+      a = l * w ; // Formula to calculate area of rectangle
   printf("\n Area of rectangle =%.2f \n",a);
 }
