@@ -4,7 +4,7 @@
 void main()
 {
   char str[100];
-  int c= 0;
+  int i,c= 0;
   printf("Enter a string: ");
   fgets(str, sizeof(str), stdin); // Read string input (including spaces)
     for (int i = 0; str[i] != '\0'; i++)
